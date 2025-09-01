@@ -1,4 +1,4 @@
-# Detecting_Colon_Cancer
+# Detecting Colon Cancer
 
 ## Dataset Link: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
